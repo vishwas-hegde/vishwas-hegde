@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @vishwas-hegde
-- 👀 I’m interested in Robotics and Automation
-- 🌱 I’m currently pursuing Master of Science in Robotics 
-- 💞️ I’m looking to collaborate on Robotics Projects
-- 📫 Reach to me @ vishwashegde99@gmail.com
+Hi, I am Vishwas Hegde, a Robotics master's student at WPI. My projects touch upon robot motion planning, controls, navigation, and machine learning. As a graduate student researcher at ELPIS lab, my work focuses on machine learning based approach for motion planning, where the planning parameters are learnt to accelerate the computational time to find a feasible path to goal. 
 
