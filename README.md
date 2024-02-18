@@ -1,4 +1,4 @@
-# Hello, I'm [Vishwas Hegde]
+# Hello, I'm Vishwas Hegde
 
 ## About Me
 I am a passionate and dedicated Robotics Engineer with a strong background in motion planning, deep learning, and software development. Currently pursuing my Master's degree in Robotics at Worcester Polytechnic Institute, I am committed to pushing the boundaries of technology and innovation in the field of robotics.
