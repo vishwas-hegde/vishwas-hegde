@@ -4,6 +4,11 @@
 I am a passionate and dedicated Robotics Engineer with a strong background in motion planning, deep learning, and software development. Currently pursuing my Master's degree in Robotics at Worcester Polytechnic Institute, I am committed to pushing the boundaries of technology and innovation in the field of robotics.
 
 ## Work Experience
+### Computer Vision/Deep Learning Intern | Rapiscan Systems | Billerica, MA (Jun 2024 - Present)
+- Implemented an Attention-based Residual UNet network to denoise X-ray images, achieving a PSNR of ~29 dB.
+- Explored super-resolution diffusion models to denoise and enhance X-ray image quality.
+- Deployed the deep learning pipeline on Azure.
+  
 ### Graduate Research Assistant | ELPIS LAB | Worcester, MA (Jan 2024 - Present)
 - Collaborating with Dr. Constantinos Chamzas, I am actively involved in developing cutting-edge Deep Reinforcement Learning models to optimize motion planning parameters for robotic arms, enhancing efficiency and adaptability.
 
