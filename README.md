@@ -38,16 +38,16 @@ I am actively seeking full-time roles starting May 2025 to explore and apply my 
 #### Aircraft State Estimation with INS/GNSS (GitHub)                                                                                          
 -	Applied UKF for INS/GNSS integration for state estimation in airplane navigation system. Explored feed-back and feed-forward architectures to enhance robustness of the navigation system.  
 
-### Learning Parameters for Kinodynamic Motion Planning
+#### Learning Parameters for Kinodynamic Motion Planning
 - Developing CNN models to optimize parameters for motion planners, aiming to reduce computational time in kinematic chain motion planning scenarios.
 
-### UAV Interception using Linear Quadratic Control 
+#### UAV Interception using Linear Quadratic Control 
 - Designed and tuned controllers for quadrotor trajectory control and aerial interception, integrating Kalman filters for state estimation.
 
-### Autonomous Navigation and Mapping Robot
+#### Autonomous Navigation and Mapping Robot
 - Implemented SLAM techniques with ROS Navigation Stack, enhancing localization and mapping accuracy using sensor fusion techniques.
 
-### All-Terrain Vehicle Development 
+#### All-Terrain Vehicle Development 
 - Led the development of a high-performance all-terrain vehicle, optimizing vehicle dynamics and reducing un-sprung mass by 30%.
 
 ## Skills
